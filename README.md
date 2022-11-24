@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kocijan5
-- 👀 I’m interested in Automation, Robotics, Cybernetics, Computer Vision
+- 👀 I’m interested in Automation, Robotics, Cybernetics, Computer Vision (tesseract)
 - 🌱 I’m currently learning Siemens, Machine Learning
 - 💞️ I’m looking to collaborate on Optical Recognition and generation of ciphers
 - 📫 How to reach me koci.jan129@gmail.com
